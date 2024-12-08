@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "New Ipad Chrome",
+  "version": "1.0",
+  "description": "Add the New Ipad controls to every webpage",
+  "content_scripts": [
+    {
+      "js": [
+        "scripts/content.js"
+      ],
+      "matches": [
+        "<all_urls>",
+        "file:///",
+        "http://localhost/*"
+      ]
+    }
+  ]
+}

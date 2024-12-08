@@ -1,0 +1,12 @@
+[
+  {
+    "name":"Xkcd",
+    "icon":"https://xkcd.com/favicon.ico",
+    "link":"https://m.xkcd.com"
+  },
+  {
+    "name":"Youtube",
+    "icon":"https://youtube.com/favicon.ico",
+    "link":"https://m.youtube.com"
+  }
+]
